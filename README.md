@@ -8,6 +8,8 @@ highlights are rendered in real time.
 **Just open `index.html`.** No build step, no server, no external requests —
 even Three.js is inlined. It runs offline, on desktop and on phones.
 
+**▶ Live demo: [cxc1344.github.io/night-cabin-liquid-glass](https://cxc1344.github.io/night-cabin-liquid-glass/)**
+
 ## 玩法
 
 底部是一排液态玻璃按钮（全胶囊圆角，图标是矢量描边，不是 emoji）：
@@ -47,9 +49,8 @@ Tap the snowflake button to start snow: it accumulates gradually on the
 ground, roof slopes, ridge, chimney and trees, and slowly smothers the
 campfire. Long-press the snow button for an intensity slider.
 
-Tip: enable **GitHub Pages** (Settings → Pages → Deploy from branch `main`)
-and this file becomes a live demo at
-`https://cxc1344.github.io/night-cabin-liquid-glass/`.
+Deployed via GitHub Pages from the `main` branch — push to `main` and the
+live demo updates itself.
 
 ## License
 
